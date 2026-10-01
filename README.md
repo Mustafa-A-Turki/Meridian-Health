@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![MeridianHealth Dashboard](Images/WhatsApp Image 2026-10-01 at 47 PM.jepg)
+![MeridianHealth Dashboard](Images/dashboard.png)
 
 ## About
 
